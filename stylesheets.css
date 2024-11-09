@@ -1,0 +1,75 @@
+.hojad {
+    background-image: url(fondo.JPG);
+    display: flex;
+}
+.def {
+    margin-left: 115px;
+}
+.idio {
+    color: white;
+    margin-left: 50px;
+    font-size: 20px;
+}
+.hrr {
+    color: white;
+}
+.idi {
+    font-size: 40px;
+    margin-left: 50px;
+}
+.edu {
+    font-size: 35px;
+    margin-left: 50px;
+    color: white;
+    margin-left: 70px;
+}
+.cole {
+    color: white;
+    margin-left: 50px;
+    font-size: 20px;
+}
+.conta {
+    font-size: 35px;
+    margin-left: 50px;
+    color: white;
+    margin-left: 90px;
+}
+.contac {
+    color: white;
+    margin-left: 50px;
+    font-size: 20px;
+}
+.nom {
+    color: #29385e;
+    font-size: 70px;
+}
+.yo {
+    font-size: 20px;
+}
+.hobb {
+    color: #29385e;
+    font-size: 30px;
+}
+.hab {
+    color: #29385e;
+    font-size: 30px;
+}
+.ex {
+    color: #29385e;
+    font-size: 30px;
+}
+.hobbi{
+    color: black;
+    margin-left: 50px;
+    font-size: 20px;
+}
+.habi {
+    color: black;
+    margin-left: 50px;
+    font-size: 20px;
+}
+.exp {
+    color: black;
+    margin-left: 50px;
+    font-size: 20px;
+}
